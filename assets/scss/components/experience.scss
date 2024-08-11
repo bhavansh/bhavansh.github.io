@@ -1,0 +1,37 @@
+// Programming Language Icons Sizing
+img[alt="p_language"] {
+    width: 1.3rem;
+    display: inline;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+  }
+  
+  table.experience {
+    // You can add specific styles for the experience table if needed.
+  }
+  
+  img.company_logo {
+    width: auto;
+  }
+  
+  td.logo {
+    width: 20%;
+    padding-right: 2rem !important;
+  }
+  
+  .logo {
+    p {
+      margin-top: 10px;
+      text-align: center;
+      
+      &.job_title {
+        font-size: 0.67em;
+        text-decoration: underline;
+      }
+      
+      &.date {
+        font-size: 0.6em;
+      }
+    }
+  }
+  

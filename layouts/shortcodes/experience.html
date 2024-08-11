@@ -1,0 +1,17 @@
+<table class="experience">
+    <tbody>
+        <tr>
+            <td class="logo">
+                <img class="company_logo" src="{{ .Page.Params.company_svg }}">
+                <p class="company_name">{{ .Page.Params.company_name }}</p>
+                <p class="job_title">{{ .Page.Params.job_title }}</p>
+                <p class="date">{{ .Page.Params.date }}</p>
+            </td>
+            <td class="details">
+                <article>
+                    {{ .Inner | markdownify }}
+                </article>
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,35 @@
+[[navbar]]
+  identifier = "about"
+  name = "About/"
+  url = "/about/"
+  weight = 1
+[[navbar]]
+  identifier = "posts"
+  name = "Posts/"
+  url = "/posts/"
+  weight = 2
+[[navbar]]
+  identifier = "experience"
+  name = "Experience/"
+  url = "/experience/"
+  weight = 3
+[[navbar]]
+  identifier = "projects"
+  name = "Projects/"
+  url = "/projects/"
+  weight = 4
+[[navbar]]
+  identifier = "papershelf"
+  name = "PaperShelf/"
+  url = "/papershelf/"
+  weight = 5
+[[navbar]]
+  identifier = "readinglist"
+  name = "ReadingList/"
+  url = "/readinglist/"
+  weight = 5
+[[navbar]]
+  identifier = "knowledgehub"
+  name = "KnowledgeHub/"
+  url = "/knowledgehub/"
+  weight = 6
